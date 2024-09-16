@@ -1,0 +1,70 @@
+[{
+    "dishname": "Strawberry Shake",
+    "cuisine" :"shakes",
+    "description":"A sweet and refreshing strawberry milkshake is the perfect drink. ",
+    "price": 129,
+    "imageUrl":"https://media.istockphoto.com/photos/strawberry-milkshake-picture-id504639970?k=20&m=504639970&s=612x612&w=0&h=E7ixzZ8vDXlDM4mwKP_IYyisLf3E4OiANrwrOEbBtPc="
+},
+{
+    "dishname": "Chocolate Thick Shake",
+    "cuisine" :"shakes",
+    "description":"This is thick chocolate shake made with chocolate syrup, milk and ice cream.",
+    "price": 170,
+    "imageUrl":"https://www.thespruceeats.com/thmb/LlR9HScfODtlFcHNdZWXSNHkXcA=/1500x1000/filters:fill(auto,1)/chocolate-milkshake-4587581-hero-1-22c8a039103c413dafd75f4f4c39ddd4.JPG"
+},
+{
+    "dishname": "Mango Shake",
+    "cuisine" :"shakes",
+    "description":"A sweet and refreshing mango shake is the perfect drink.",
+    "price": 120,
+    "imageUrl":"https://c.ndtvimg.com/mango-shake_625x300_1527852574155.jpg"
+},
+{
+    "dishname": "Belgian Dark Chocolate Shake",
+    "cuisine" :"shakes",
+    "description":"Chocolate Shakes with Nut Shakes",
+    "price": 169,
+    "imageUrl":"https://res.cloudinary.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/wo3thcy9n8abmjsd5ve4"
+},
+{
+    "dishname": "Ferrero Rocher Shake",
+    "cuisine" :"shakes",
+    "description":"chocolate Ferrero rocher with milk and made into a milk shake.",
+    "price": 210,
+    "imageUrl":"https://i.pinimg.com/736x/8d/78/f2/8d78f2bd3ad7cc9cab20f2887c7acf36--ferrero-rocher.jpg"
+},
+{
+    "dishname": "Alphonso Mango Shake",
+    "cuisine" :"shakes",
+    "description":" mango shake make delicious and creamy shakes.",
+    "price": 139,
+    "imageUrl":"https://lapopola.com/wp-content/uploads/2021/03/4.jpg"
+},
+{
+    "dishname": "Bubble Gum Shake",
+    "cuisine" :"shakes",
+    "description":" GREAT Bubblegum Milkshake.",
+    "price": 120,
+    "imageUrl":"https://www.funfoodsyt.com/wp-content/uploads/2018/04/Bubblegum-Milkshake-2.jpg"
+},
+{
+    "dishname": "Chocolate Brownie Shake",
+    "cuisine" :"shakes",
+    "description":"splash of milk and blended it until everything was smooth. ",
+    "price": 230,
+    "imageUrl":"http://curlytales.com/wp-content/uploads/2018/10/22519488_316930742116171_7468594052269823798_n.jpg"
+},
+{
+    "dishname": "Chocolate Oreo Shake",
+    "cuisine" :"shakes",
+    "description":" you like your Oreo milkshake chunkier, either blend the Oreos ",
+    "price": 199,
+    "imageUrl":"https://i.ytimg.com/vi/c7gID-bdVE0/maxresdefault.jpg"
+},
+{
+    "dishname": "Kit Kat Shake",
+    "cuisine" :"shakes",
+    "description":"Yearning for a thick, creamy chocolaty shake, ",
+    "price": 210,
+    "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvUI-I2FC5mP7vvzctCAj6D3hnOBiVsaNiTA&usqp=CAU"
+}]
